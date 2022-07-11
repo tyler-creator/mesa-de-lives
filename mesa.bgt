@@ -1,0 +1,6 @@
+string nome="Mesa de lives";
+string url_master="https://github.com/tyler-creator/mesa-de-lives";
+void main(){
+alert(nome, "Arquivo inicial...");
+alert(nome, "Visite a página de desenvolvimento da "+nome+" em:\n"+url_master);
+}
